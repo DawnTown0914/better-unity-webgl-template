@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 156e4b9dce38b4eee94a4130df38909d, type: 3}
+  m_Name: Tutorial CutScene Animation Pack
+  m_EditorClassIdentifier: 
+  animations:
+  - {fileID: 11400000, guid: 45a9f014c0978442abc5e38032ce3067, type: 2}
+  - {fileID: 11400000, guid: 76eeb615014c94e37b3a1edaed7619cc, type: 2}
+  - {fileID: 11400000, guid: c389b598525104119ab3f4551702352d, type: 2}
+  - {fileID: 11400000, guid: 0c9b975a95e8d4a15805a29b626c6cef, type: 2}
+  - {fileID: 11400000, guid: 3c22bffeed7b64a30ada228bf23f0c66, type: 2}
+  - {fileID: 11400000, guid: 697ec49f5f14b4c5680493bc9e6a2e97, type: 2}
+  - {fileID: 11400000, guid: 6bf7279ed11084d4da286f8e7b652f99, type: 2}
+  - {fileID: 11400000, guid: d40a28b93d9d74d75ae794b70e85867e, type: 2}
+  - {fileID: 11400000, guid: 2cf423b36bf0c4bf9853dc7c5299aa34, type: 2}
+  - {fileID: 11400000, guid: 68cc53d28a30547ddaf462604ff95b71, type: 2}
+  - {fileID: 11400000, guid: 0a19f191027e7417eb375438cd5a4d32, type: 2}
+  - {fileID: 11400000, guid: e99c90896d7744addac87099053aa1a4, type: 2}
+  - {fileID: 11400000, guid: cb79998b1ba64424bbad286735c0e5c5, type: 2}
+  - {fileID: 11400000, guid: d769854fc95654f6ba4380ddad254bb2, type: 2}
+  Type: 0
+  Level: 0
+  Description: 
